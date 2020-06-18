@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="c2a636f1-7c3f-4d51-9ebc-3e5431eeac9e" name="psp-ssh-client" projectName="psp-ssh-client">
+      <configuration id="988e5224-6e38-4480-a7b6-ba9c9fbca388" name="psp-ssh-client">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_make clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8520259e-f568-4f01-9591-ae80a9671bbd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CompDBLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="psp-ssh-client" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="psp-ssh-client" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1dUGZVH5wX5bOBiozNKi7u1ST95" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CLionExternalConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="psp-ssh-client" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="psp-ssh-client" TARGET_NAME="psp-ssh-client" CONFIG_NAME="psp-ssh-client">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8520259e-f568-4f01-9591-ae80a9671bbd" name="Default Changelist" comment="" />
+      <created>1592472313709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592472313709</updated>
+      <workItem from="1592472315025" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592472823948">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="418" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1592472823948" />
+    <state x="696" y="338" width="518" height="486" key="#com.intellij.tools.ToolEditorDialog" timestamp="1592472757032">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="696" y="338" width="518" height="486" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1592472757032" />
+    <state x="738" y="339" width="424" height="479" key="FileChooserDialogImpl" timestamp="1592472400981">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="738" y="339" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1592472400981" />
+    <state width="1878" height="319" key="GridCell.Tab.0.bottom" timestamp="1592472783664">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1592472783664" />
+    <state width="1878" height="319" key="GridCell.Tab.0.center" timestamp="1592472783663">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1592472783663" />
+    <state width="1878" height="319" key="GridCell.Tab.0.left" timestamp="1592472783662">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1592472783662" />
+    <state width="1878" height="319" key="GridCell.Tab.0.right" timestamp="1592472783663">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1592472783663" />
+    <state x="464" y="219" key="SettingsEditor" timestamp="1592472797664">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="464" y="219" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1592472797664" />
+    <state x="855" y="363" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1592472757999">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="855" y="363" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1170@0.0.1920.1170" timestamp="1592472757999" />
+  </component>
+</project>
