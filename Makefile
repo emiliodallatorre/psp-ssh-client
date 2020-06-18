@@ -1,7 +1,7 @@
 TARGET = psp-ssh-client
-OBJS   = ./ssh-client/main.o ./common/callback.o
+OBJS   = ./ssh-client/main.o ./common/callback.o ./common/ui.o
 
-INCDIR   =
+INCDIR   = /usr/include/libssh/
 CFLAGS   = -G0 -Wall -O2
 CXXFLAGS = $(CFLAGS) -fno-exceptions -fno-rtti
 ASFLAGS  = $(CFLAGS)
@@ -13,10 +13,11 @@ LIBS    = -lm
 BUILD_PRX = 1 
 
 EXTRA_TARGETS   = EBOOT.PBP
-PSP_EBOOT_TITLE = My Program
+PSP_EBOOT_TITLE = SSH Client
 # PSP_EBOOT_ICON= ICON0.png
 # PSP_EBOOT_PIC1= PIC1.png
 # PSP_EBOOT_SND0= SND0.at3
 
 PSPSDK=$(shell psp-config --pspsdk-path)
 include $(PSPSDK)/lib/build.mak
+

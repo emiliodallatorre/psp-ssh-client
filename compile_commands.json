@@ -1,36 +1,56 @@
 [
  {
-  "directory": "/home/emiliodallatorre/Documenti/GitHub/psp-ssh-client",
+  "directory": "/home/emiliodallatorre/Documenti/GitHub/psp-ssh-client", 
   "arguments": [
-   "psp-gcc",
-   "-I.",
-   "-I/usr/local/pspdev/psp/sdk/include",
-   "-G0",
-   "-Wall",
-   "-O2",
-   "-D_PSP_FW_VERSION=150",
-   "-c",
-   "-o",
-   "ssh-client/main.o",
-   "ssh-client/main.c"
-  ],
-  "file": "ssh-client/main.c"
- },
+   "psp-gcc", 
+   "-I/usr/include/libssh/", 
+   "-I.", 
+   "-I/usr/local/pspdev/psp/sdk/include", 
+   "-G0", 
+   "-Wall", 
+   "-O2", 
+   "-D_PSP_FW_VERSION=150", 
+   "-c", 
+   "-o", 
+   "common/ui.o", 
+   "common/ui.c"
+  ], 
+  "file": "common/ui.c"
+ }, 
  {
-  "directory": "/home/emiliodallatorre/Documenti/GitHub/psp-ssh-client",
+  "directory": "/home/emiliodallatorre/Documenti/GitHub/psp-ssh-client", 
   "arguments": [
-   "psp-gcc",
-   "-I.",
-   "-I/usr/local/pspdev/psp/sdk/include",
-   "-G0",
-   "-Wall",
-   "-O2",
-   "-D_PSP_FW_VERSION=150",
-   "-c",
-   "-o",
-   "common/callback.o",
+   "psp-gcc", 
+   "-I/usr/include/libssh/", 
+   "-I.", 
+   "-I/usr/local/pspdev/psp/sdk/include", 
+   "-G0", 
+   "-Wall", 
+   "-O2", 
+   "-D_PSP_FW_VERSION=150", 
+   "-c", 
+   "-o", 
+   "common/callback.o", 
    "common/callback.c"
-  ],
+  ], 
   "file": "common/callback.c"
+ }, 
+ {
+  "directory": "/home/emiliodallatorre/Documenti/GitHub/psp-ssh-client", 
+  "arguments": [
+   "psp-gcc", 
+   "-I/usr/include/libssh/", 
+   "-I.", 
+   "-I/usr/local/pspdev/psp/sdk/include", 
+   "-G0", 
+   "-Wall", 
+   "-O2", 
+   "-D_PSP_FW_VERSION=150", 
+   "-c", 
+   "-o", 
+   "ssh-client/main.o", 
+   "ssh-client/main.c"
+  ], 
+  "file": "ssh-client/main.c"
  }
 ]
